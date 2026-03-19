@@ -66,7 +66,6 @@ I build games from the ground up — custom engines, physics, AI systems — and
 |---|---|---|
 | 🎮 [DirectX 3D Engine](https://github.com/alvarogope/DX3D-3D-Game-Engine) | Custom 3D game engine with DirectX 11 rendering pipeline | C++, DirectX 11 |
 | 👾 [Retro FPS Engine](https://github.com/alvarogope/FPS-Retro-Doom-Game) | Doom-style raycasting engine built from scratch | Python, Pygame |
-| 🏰 UE5 Jousting Game | Spline-based horse movement, lance impact physics, AI Behaviour Trees, and UMG UI in Unreal Engine 5 | C++, UE5 |
 | 🚀 [AI Branding & Marketing SaaS](https://github.com/alvarogope/YOUR-SAAS-REPO) | Serverless SaaS that generates AI-powered marketing copy and SEO keywords from a brand description | FastAPI, Next.js, OpenAI, AWS Lambda, Vercel |
 
 ---
