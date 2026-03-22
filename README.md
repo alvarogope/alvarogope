@@ -7,9 +7,9 @@ I build games from the ground up: custom engines, physics, AI systems, and I als
  
 ## 🎮 What I Build
  
-- **Game engines & games** — DirectX 11 3D rendering, raycasting engines, Unreal Engine 5 (Blueprints, AI Behaviour Trees, physics)
-- **Full-stack applications** — FastAPI backends, React/Next.js frontends, AI-integrated pipelines, authentication systems
-- **Tools & scripts** — Python CLI tools, data visualisation, automation
+- **Game engines & games**: DirectX 11 3D rendering, raycasting engines, Unreal Engine 5 (Blueprints, AI Behaviour Trees, physics)
+- **Full-stack applications**: FastAPI backends, React/Next.js frontends, AI-integrated pipelines, authentication systems
+- **Tools & scripts**: Python CLI tools, data visualisation, automation
  
 ---
  
