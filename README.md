@@ -57,6 +57,7 @@ I build games from the ground up: custom engines, physics, AI systems, and I als
 |---|---|---|
 | 🤖 [AI Coding Challenge Platform](https://github.com/alvarogope/AI-Powered-Coding-Challenge-with-ClerkAuthentication) | Full-stack app with AI-generated challenges, user auth, and daily quotas | FastAPI, React, OpenAI, Clerk |
 | 💰 [Finance Tracker](https://github.com/alvarogope/Finance-Tracker) | CLI tool for logging, filtering, and visualising personal finances | Python, Matplotlib |
+| 🗡️ [Moon Knight — UE5 Action RPG](https://github.com/alvarogope/Moon-Knight-UE5-RPG) | Solo-developed third-person action RPG — combat combo system, enemy AI Behaviour Trees, target lock, inventory, and dialogue | UE5, Blueprints, C++ |
  
 ---
 
