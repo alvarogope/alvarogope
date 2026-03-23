@@ -24,6 +24,7 @@ I build games from the ground up: custom engines, physics, AI systems, and I als
 **Game Development**
  
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
+![Enhanced Input](https://img.shields.io/badge/Enhanced%20Input%20System-0E1128?style=flat&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![DirectX](https://img.shields.io/badge/DirectX%2011-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=python&logoColor=white)
