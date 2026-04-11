@@ -80,8 +80,7 @@ I build games from the ground up, custom engines, physics, AI systems. I also sh
 
 ## 📊 GitHub Stats
 
-![Alvaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvarogope&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarogope&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alvarogope&theme=github_dark)
 
 ---
 
