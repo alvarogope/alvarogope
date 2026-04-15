@@ -1,7 +1,7 @@
 # Hi, I'm Alvaro 👋
 
 **Game developer and full-stack engineer based in London.**  
-I build games from the ground up, custom engines, physics, AI systems. I also ship full-stack web applications with modern tooling. I'm passionate about interactive experiences and the low-level systems that power them.
+I build games from the ground up, custom engines, physics, AI systems. I also ship full-stack web applications with modern tooling. I have a keen interest in interactive experiences and the low-level systems that power them.
 
 ---
 
