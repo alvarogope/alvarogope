@@ -1,15 +1,16 @@
 # Hi, I'm Alvaro 👋
 
-**Game developer and full-stack engineer based in London.**  
-I build games from the ground up, custom engines, physics, AI systems. I also ship full-stack web applications with modern tooling. I have a keen interest in interactive experiences and the low-level systems that power them.
+**Game developer, full-stack engineer, and quantum computing enthusiast based in London.**  
+I build games from the ground up (custom engines, physics, AI systems), ship full-stack web applications with modern tooling, and apply quantum algorithms to real-world optimisation problems. Passionate about interactive experiences, low-level systems, and the intersection of emerging technology with software engineering.
 
 ---
 
 ## 🎮 What I Build
 
-- **Game engines & games** DirectX 11 3D rendering, raycasting engines, Unreal Engine 5 (Blueprints, AI Behaviour Trees, physics)
-- **Full-stack applications** FastAPI backends, React/Next.js frontends, AI-integrated pipelines, authentication systems
-- **Tools & scripts** Python CLI tools, data visualisation, automation
+- **Game engines & games** - DirectX 11 3D rendering, raycasting engines, Unreal Engine 5 (Blueprints, AI Behaviour Trees, physics)
+- **Full-stack applications** - FastAPI backends, React/Next.js frontends, AI-integrated pipelines, authentication systems, CRM tools
+- **Quantum computing** - QAOA optimisation, QUBO problem encoding, procedural generation via IBM Qiskit
+- **Tools & scripts** - Python CLI tools, data visualisation, automation
 
 ---
 
@@ -34,6 +35,7 @@ I build games from the ground up, custom engines, physics, AI systems. I also sh
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
@@ -60,8 +62,9 @@ I build games from the ground up, custom engines, physics, AI systems. I also sh
 
 | Project | Description | Tech |
 |---|---|---|
-| 🗡️ [Moon Knight UE5 Action RPG](https://github.com/alvarogope/Moon-Knight-UE5-RPG) | Solo-developed third-person action RPG, combat combo system, enemy AI Behaviour Trees, target lock, inventory, and dialogue | UE5, Blueprints, C++ |
-| ⚛️ [Quantum Dungeon Generator](https://github.com/alvarogope/Quantum-Dungeon-Generator) | Procedural dungeon generator using QAOA quantum optimisation. Encodes game design constraints as QUBO problems solved via IBM Qiskit | Python, Qiskit, NumPy |
+| 🗡️ [Moon Knight — UE5 Action RPG](https://github.com/alvarogope/Moon-Knight-UE5-RPG) | Solo-developed third-person action RPG - combat combo system, enemy AI Behaviour Trees, target lock, inventory, and dialogue | UE5, Blueprints, C++ |
+| ⚛️ [Quantum Portfolio Optimizer](https://github.com/alvarogope/Quantum-Portfolio-Optimizer) | Hybrid quantum-classical portfolio optimizer using QAOA for stock selection and scipy for weight allocation with real-time yfinance data | Python, Qiskit, FastAPI, React |
+| ⚛️ [Quantum Dungeon Generator](https://github.com/alvarogope/Quantum-Dungeon-Generator) | Procedural dungeon generator using QAOA quantum optimisation - encodes game design constraints as QUBO problems solved via IBM Qiskit | Python, Qiskit, NumPy |
 | 🤖 [AI Coding Challenge Platform](https://github.com/alvarogope/AI-Coding-Challenge-Platform) | Full-stack app with AI-generated challenges, user auth, and daily quotas | FastAPI, React, OpenAI, Clerk |
 | 💰 [Finance Tracker](https://github.com/alvarogope/Finance-Tracker) | CLI tool for logging, filtering, and visualising personal finances | Python, Matplotlib |
 
@@ -75,19 +78,21 @@ I build games from the ground up, custom engines, physics, AI systems. I also sh
 | 👾 [Retro FPS Engine](https://github.com/alvarogope/FPS-Retro-Doom-Game) | Doom-style raycasting engine built from scratch | Python, Pygame |
 | 🏰 UE5 Jousting Game | Spline-based horse movement, lance impact physics, AI Behaviour Trees, and UMG UI in Unreal Engine 5 | C++, UE5 |
 | 🚀 [AI Branding & Marketing SaaS](https://github.com/alvarogope/AI-Branding-Marketing-SaaS) | Serverless SaaS that generates AI-powered marketing copy and SEO keywords from a brand description | FastAPI, Next.js, OpenAI, AWS Lambda, Vercel |
+| 🏢 Antibody CRM *(Private)* | Full-stack CRM built for a biotech company - Kanban deal pipeline, JWT auth, role-based access control, CSV/Excel export, and local HTTPS | FastAPI, React, SQLite, JWT |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alvarogope&theme=github_dark)
+![Alvaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvarogope&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarogope&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## 📫 Find Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://alvarogomezgamedesign.wordpress.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-gomez-perez/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 
 ---
 
