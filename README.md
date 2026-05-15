@@ -89,13 +89,6 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 
 ---
 
-## 📊 GitHub Stats
-
-![Alvaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvarogope&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarogope&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📫 Find Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-21759B?style=flat&logo=wordpress&logoColor=white)](https://alvarogomezgamedesign.wordpress.com)
