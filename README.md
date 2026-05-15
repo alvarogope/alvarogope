@@ -7,7 +7,7 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 
 ## 🎮 What I Build
 
-- **Game engines & games** - DirectX 11 3D rendering, raycasting engines, Unreal Engine 5 (Blueprints, AI Behaviour Trees, physics)
+- **Game engines & games** - Raycasting engines, Unreal Engine 5 (Blueprints, AI Behaviour Trees, physics)
 - **Full-stack applications** - FastAPI backends, React/Next.js frontends, AI-integrated pipelines, authentication systems, CRM tools
 - **Quantum computing** - QAOA optimisation, QUBO problem encoding, procedural generation via IBM Qiskit
 - **Tools & scripts** - Python CLI tools, data visualisation, automation
@@ -26,7 +26,6 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![DirectX](https://img.shields.io/badge/DirectX%2011-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=python&logoColor=white)
 
 **Web & Backend**
