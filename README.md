@@ -62,8 +62,8 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 
 | Project | Description | Tech |
 |---|---|---|
-| 🗡️ [Moon Knight — UE5 Action RPG](https://github.com/alvarogope/Moon-Knight-UE5-RPG) | Solo-developed third-person action RPG - combat combo system, enemy AI Behaviour Trees, target lock, inventory, and dialogue | UE5, Blueprints, C++ |
-| ⚔️ [Dynamic Combat System](https://github.com/alvarogope/Dynamic-Combat-System) | 2D side-scrolling combat prototype in C++ - frame data, stamina, parry, poise, input buffering, and built-in technical designer tools (hitbox editor, frame data visualiser, live tuning console) | C++, Raylib, CMake |
+| 🗡️ [Moon Knight · UE5 Action RPG](https://github.com/alvarogope/Moon-Knight-UE5-RPG) | Solo-developed third-person action RPG - combat combo system, enemy AI Behaviour Trees, target lock, inventory, and dialogue | UE5, Blueprints, C++ |
+| ⚔️ [Dynamic Combat System](https://github.com/alvarogope/Dynamic-Combat-System) *(In Development)* | 2D side-scrolling combat prototype in C++ - frame data, stamina, parry, poise, input buffering, and built-in technical designer tools (hitbox editor, frame data visualiser, live tuning console) | C++, Raylib, CMake |
 | 👾 [Retro FPS Engine](https://github.com/alvarogope/FPS-Retro-Doom-Game) | Doom-style raycasting engine built from scratch - textured walls, skybox, sprites, and collision detection | Python, Pygame |
 
 ---
@@ -73,6 +73,7 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 | Project | Description | Tech |
 |---|---|---|
 | 📈 [Quantum Portfolio Optimizer](https://github.com/alvarogope/Quantum-Portfolio-Optimizer) | Hybrid quantum-classical portfolio optimizer using QAOA for stock selection and scipy for weight allocation with real-time yfinance data | Python, Qiskit, FastAPI, React |
+| 💹 [QuantumRisk](https://github.com/alvarogope/QuantumRisk) *(In Development)* | Full-stack quantum finance app - Quantum Amplitude Estimation vs classical Monte Carlo for options pricing and VaR | Python, Qiskit, FastAPI, React |
 | 🏰 [Quantum Dungeon Generator](https://github.com/alvarogope/Quantum-Dungeon-Generator) | Procedural dungeon generator using QAOA - encodes game design constraints as QUBO problems solved via IBM Qiskit | Python, Qiskit, NumPy |
 
 ---
@@ -83,7 +84,7 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 |---|---|---|
 | 🏢 Antibody CRM *(Private)* | Full-stack CRM built for a biotech company - Kanban deal pipeline, JWT auth, role-based access control, CSV/Excel export, and local HTTPS | FastAPI, React, SQLite, JWT |
 | 🤖 [AI Coding Challenge Platform](https://github.com/alvarogope/AI-Coding-Challenge-Platform) | Full-stack app with AI-generated challenges, user auth, and daily quotas | FastAPI, React, OpenAI, Clerk |
-| 🚀 [AI Branding & Marketing SaaS](https://github.com/alvarogope/AI-Branding-Marketing-SaaS) | Serverless SaaS that generates AI-powered marketing copy and SEO keywords from a brand description | FastAPI, Next.js, Claude API |
+| 🚀 [AI Branding & Marketing SaaS](https://github.com/alvarogope/AI-Branding-Marketing-SaaS) *(In Development)* | Serverless SaaS that generates AI-powered marketing copy and SEO keywords from a brand description | FastAPI, Next.js, Claude API |
 | 💰 [Finance Tracker](https://github.com/alvarogope/Finance-Tracker) | CLI tool for logging, filtering, and visualising personal finances | Python, Matplotlib |
 
 ---
