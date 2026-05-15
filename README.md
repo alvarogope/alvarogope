@@ -58,27 +58,33 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 
 ---
 
-## 📌 Featured Projects
+## 🎮 Game Development Projects
 
 | Project | Description | Tech |
 |---|---|---|
 | 🗡️ [Moon Knight — UE5 Action RPG](https://github.com/alvarogope/Moon-Knight-UE5-RPG) | Solo-developed third-person action RPG - combat combo system, enemy AI Behaviour Trees, target lock, inventory, and dialogue | UE5, Blueprints, C++ |
-| ⚛️ [Quantum Portfolio Optimizer](https://github.com/alvarogope/Quantum-Portfolio-Optimizer) | Hybrid quantum-classical portfolio optimizer using QAOA for stock selection and scipy for weight allocation with real-time yfinance data | Python, Qiskit, FastAPI, React |
-| ⚛️ [Quantum Dungeon Generator](https://github.com/alvarogope/Quantum-Dungeon-Generator) | Procedural dungeon generator using QAOA quantum optimisation - encodes game design constraints as QUBO problems solved via IBM Qiskit | Python, Qiskit, NumPy |
-| 🤖 [AI Coding Challenge Platform](https://github.com/alvarogope/AI-Coding-Challenge-Platform) | Full-stack app with AI-generated challenges, user auth, and daily quotas | FastAPI, React, OpenAI, Clerk |
-| 💰 [Finance Tracker](https://github.com/alvarogope/Finance-Tracker) | CLI tool for logging, filtering, and visualising personal finances | Python, Matplotlib |
+| ⚔️ [Dynamic Combat System](https://github.com/alvarogope/Dynamic-Combat-System) | 2D side-scrolling combat prototype in C++ - frame data, stamina, parry, poise, input buffering, and built-in technical designer tools (hitbox editor, frame data visualiser, live tuning console) | C++, Raylib, CMake |
+| 👾 [Retro FPS Engine](https://github.com/alvarogope/FPS-Retro-Doom-Game) | Doom-style raycasting engine built from scratch - textured walls, skybox, sprites, and collision detection | Python, Pygame |
 
 ---
 
-## 🔨 Currently Building
+## ⚛️ Quantum Computing Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎮 [DirectX 3D Engine](https://github.com/alvarogope/DX3D-3D-Game-Engine) | Custom 3D game engine with DirectX 11 rendering pipeline | C++, DirectX 11 |
-| 👾 [Retro FPS Engine](https://github.com/alvarogope/FPS-Retro-Doom-Game) | Doom-style raycasting engine built from scratch | Python, Pygame |
-| 🏰 UE5 Jousting Game | Spline-based horse movement, lance impact physics, AI Behaviour Trees, and UMG UI in Unreal Engine 5 | C++, UE5 |
-| 🚀 [AI Branding & Marketing SaaS](https://github.com/alvarogope/AI-Branding-Marketing-SaaS) | Serverless SaaS that generates AI-powered marketing copy and SEO keywords from a brand description | FastAPI, Next.js, OpenAI, AWS Lambda, Vercel |
+| 📈 [Quantum Portfolio Optimizer](https://github.com/alvarogope/Quantum-Portfolio-Optimizer) | Hybrid quantum-classical portfolio optimizer using QAOA for stock selection and scipy for weight allocation with real-time yfinance data | Python, Qiskit, FastAPI, React |
+| 🏰 [Quantum Dungeon Generator](https://github.com/alvarogope/Quantum-Dungeon-Generator) | Procedural dungeon generator using QAOA - encodes game design constraints as QUBO problems solved via IBM Qiskit | Python, Qiskit, NumPy |
+
+---
+
+## 💻 Software Engineering Projects
+
+| Project | Description | Tech |
+|---|---|---|
 | 🏢 Antibody CRM *(Private)* | Full-stack CRM built for a biotech company - Kanban deal pipeline, JWT auth, role-based access control, CSV/Excel export, and local HTTPS | FastAPI, React, SQLite, JWT |
+| 🤖 [AI Coding Challenge Platform](https://github.com/alvarogope/AI-Coding-Challenge-Platform) | Full-stack app with AI-generated challenges, user auth, and daily quotas | FastAPI, React, OpenAI, Clerk |
+| 🚀 [AI Branding & Marketing SaaS](https://github.com/alvarogope/AI-Branding-Marketing-SaaS) | Serverless SaaS that generates AI-powered marketing copy and SEO keywords from a brand description | FastAPI, Next.js, Claude API |
+| 💰 [Finance Tracker](https://github.com/alvarogope/Finance-Tracker) | CLI tool for logging, filtering, and visualising personal finances | Python, Matplotlib |
 
 ---
 
@@ -91,8 +97,8 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 
 ## 📫 Find Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-21759B?style=flat&logo=wordpress&logoColor=white)](https://alvarogomezgamedesign.wordpress.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvaro-gomez-perez/)
 
 ---
 
