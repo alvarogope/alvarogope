@@ -72,7 +72,7 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 | Project | Description | Tech |
 |---|---|---|
 | 📈 [Quantum Portfolio Optimizer](https://github.com/alvarogope/Quantum-Portfolio-Optimizer) | Hybrid quantum-classical portfolio optimizer using QAOA for stock selection and scipy for weight allocation with real-time yfinance data | Python, Qiskit, FastAPI, React |
-| 💹 [QuantumRisk](https://github.com/alvarogope/QuantumRisk) *(In Development)* | Full-stack quantum finance app - Quantum Amplitude Estimation vs classical Monte Carlo for options pricing and VaR | Python, Qiskit, FastAPI, React |
+| 💹 [QuantumRisk](https://github.com/alvarogope/QuantumRisk) | Full-stack quantum finance app - Quantum Amplitude Estimation vs classical Monte Carlo for options pricing and VaR | Python, Qiskit, FastAPI, React |
 | 🏰 [Quantum Dungeon Generator](https://github.com/alvarogope/Quantum-Dungeon-Generator) | Procedural dungeon generator using QAOA - encodes game design constraints as QUBO problems solved via IBM Qiskit | Python, Qiskit, NumPy |
 
 ---
