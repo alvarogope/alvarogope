@@ -62,8 +62,6 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 | Project | Description | Tech |
 |---|---|---|
 | 🗡️ [Moon Knight · UE5 Action RPG](https://github.com/alvarogope/Moon-Knight-UE5-RPG) | Solo-developed third-person action RPG - combat combo system, enemy AI Behaviour Trees, target lock, inventory, and dialogue | UE5, Blueprints, C++ |
-| ⚔️ [Dynamic Combat System](https://github.com/alvarogope/Dynamic-Combat-System) *(In Development)* | 2D side-scrolling combat prototype in C++ - frame data, stamina, parry, poise, input buffering, and built-in technical designer tools (hitbox editor, frame data visualiser, live tuning console) | C++, Raylib, CMake |
-| 👾 [Retro FPS Engine](https://github.com/alvarogope/FPS-Retro-Doom-Game) | Doom-style raycasting engine built from scratch - textured walls, skybox, sprites, and collision detection | Python, Pygame |
 
 ---
 
@@ -81,9 +79,7 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏢 Antibody CRM *(Private)* | Full-stack CRM built for a biotech company - Kanban deal pipeline, JWT auth, role-based access control, CSV/Excel export, and local HTTPS | FastAPI, React, SQLite, JWT |
 | 🤖 [AI Coding Challenge Platform](https://github.com/alvarogope/AI-Coding-Challenge-Platform) | Full-stack app with AI-generated challenges, user auth, and daily quotas | FastAPI, React, OpenAI, Clerk |
-| 🚀 [AI Branding & Marketing SaaS](https://github.com/alvarogope/AI-Branding-Marketing-SaaS) *(In Development)* | Serverless SaaS that generates AI-powered marketing copy and SEO keywords from a brand description | FastAPI, Next.js, Claude API |
 | 💰 [Finance Tracker](https://github.com/alvarogope/Finance-Tracker) | CLI tool for logging, filtering, and visualising personal finances | Python, Matplotlib |
 
 ---
