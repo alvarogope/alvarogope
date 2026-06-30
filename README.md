@@ -1,6 +1,6 @@
 # Hi, I'm Alvaro 👋
 
-**Game developer, full-stack engineer, and quantum computing enthusiast based in London.**  
+**Game developer, full-stack engineer, and quantum computing enthusiast.**  
 I build games from the ground up (custom engines, physics, AI systems), ship full-stack web applications with modern tooling, and apply quantum algorithms to real-world optimisation problems. Passionate about interactive experiences, low-level systems, and the intersection of emerging technology with software engineering.
 
 ---
@@ -91,4 +91,4 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 
 ---
 
-*Currently open to game development and software engineering roles in London and remote.*
+*Currently open to game development and software engineering roles.*
