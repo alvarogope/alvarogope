@@ -59,6 +59,15 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 
 ---
 
+## 🏅 Certifications
+
+![PSM1](https://img.shields.io/badge/PSM1-Professional%20Scrum%20Master-0052CC?style=flat&logo=scrumalliance&logoColor=white)
+![Python](https://img.shields.io/badge/Expert%20Python%20Developer-Distinction-3776AB?style=flat&logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20Code%20in%20Action-Anthropic-D97757?style=flat)
+![NQCC](https://img.shields.io/badge/NQCC%20Quantum%20Skills%20Programme-In%20Progress-6929C4?style=flat&logo=ibm&logoColor=white)
+
+---
+
 ## 🎮 Game Development Projects
 
 | Project | Description | Tech |
