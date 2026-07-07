@@ -1,5 +1,7 @@
 # Hi, I'm Alvaro 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B5CF6&width=435&lines=Game+Developer;Full-Stack+Engineer;Quantum+Computing+Enthusiast)](https://git.io/typing-svg)
+
 **Game developer, full-stack engineer, and quantum computing enthusiast.**  
 I build games from the ground up (custom engines, physics, AI systems), ship full-stack web applications with modern tooling, and apply quantum algorithms to real-world optimisation problems. Passionate about interactive experiences, low-level systems, and the intersection of emerging technology with software engineering.
 
