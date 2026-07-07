@@ -95,5 +95,7 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=alvarogope&color=9B5CF6&style=flat)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://alvarogomezgamedesign.wordpress.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvaro-gomez-perez/)
