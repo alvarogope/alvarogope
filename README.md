@@ -84,11 +84,5 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 
 ---
 
-## 📫 Find Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-21759B?style=flat&logo=wordpress&logoColor=white)](https://alvarogomezgamedesign.wordpress.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvaro-gomez-perez/)
-
----
-
-*Currently open to game development and software engineering roles.*
+[![Portfolio](https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://alvarogomezgamedesign.wordpress.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvaro-gomez-perez/)
