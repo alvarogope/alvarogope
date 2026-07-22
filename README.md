@@ -90,7 +90,7 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 
 | Project | Description | Tech |
 |---|---|---|
-| 🤖 [AI Coding Challenge Platform](https://github.com/alvarogope/AI-Coding-Challenge-Platform) | Full-stack app with AI-generated challenges, user auth, and daily quotas | FastAPI, React, OpenAI, Clerk |
+| 🤖 [SecureAI Coding Challenge Generator](https://github.com/alvarogope/AI-Coding-Challenge-Platform) | Full-stack app with AI-generated challenges, user auth, and daily quotas | FastAPI, React, OpenAI, Clerk |
 | 💰 [Finance Tracker](https://github.com/alvarogope/Finance-Tracker) | CLI tool for logging, filtering, and visualising personal finances | Python, Matplotlib |
 
 ---
