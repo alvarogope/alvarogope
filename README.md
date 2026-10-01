@@ -7,7 +7,7 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 
 ---
 
-## 🎮 What I Build
+## What I Build
 
 - **Game engines & games** - Raycasting engines, Unreal Engine 5 (Blueprints, AI Behaviour Trees, physics)
 - **Full-stack applications** - FastAPI backends, React/Next.js frontends, AI-integrated pipelines, authentication systems, CRM tools
@@ -16,13 +16,14 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 **Game Development**
 
@@ -59,7 +60,7 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 ![PSM1](https://img.shields.io/badge/PSM1-Professional%20Scrum%20Master-0052CC?style=flat&logo=scrumalliance&logoColor=white)
 ![Python](https://img.shields.io/badge/Expert%20Python%20Developer-Distinction-3776AB?style=flat&logo=python&logoColor=white)
@@ -68,32 +69,33 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 
 ---
 
-## 🎮 Game Development Projects
+## Game Development Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| 🗡️ [Moon Knight · UE5 Action RPG](https://github.com/alvarogope/Moon-Knight-UE5-RPG) | Solo-developed third-person action RPG - combat combo system, enemy AI Behaviour Trees, target lock, inventory, and dialogue | UE5, Blueprints, C++ |
+| [Moon Knight · UE5 Action RPG](https://github.com/alvarogope/Moon-Knight-UE5-RPG) | Solo-developed third-person action RPG - combat combo system, enemy AI Behaviour Trees, target lock, inventory, and dialogue | UE5, Blueprints, C++ |
 
 ---
 
-## ⚛️ Quantum Computing Projects
+## Quantum Computing Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| 💹 [QuantumRisk](https://github.com/alvarogope/QuantumRisk) | Full-stack quantum finance app - Quantum Amplitude Estimation vs classical Monte Carlo for options pricing and VaR | Python, Qiskit, FastAPI, React |
-| 📈 [Quantum Portfolio Optimizer](https://github.com/alvarogope/Quantum-Portfolio-Optimizer) | Hybrid quantum-classical portfolio optimizer using QAOA for stock selection and scipy for weight allocation with real-time yfinance data | Python, Qiskit, FastAPI, React |
-| 🏰 [Quantum Dungeon Generator](https://github.com/alvarogope/Quantum-Dungeon-Generator) | Procedural dungeon generator using QAOA - encodes game design constraints as QUBO problems solved via IBM Qiskit | Python, Qiskit, NumPy |
+| [QuantumRisk](https://github.com/alvarogope/QuantumRisk) | Full-stack quantum finance app - Quantum Amplitude Estimation vs classical Monte Carlo for options pricing and VaR | Python, Qiskit, FastAPI, React |
+| [Quantum Portfolio Optimizer](https://github.com/alvarogope/Quantum-Portfolio-Optimizer) | Hybrid quantum-classical portfolio optimizer using QAOA for stock selection and scipy for weight allocation with real-time yfinance data | Python, Qiskit, FastAPI, React |
+| [Quantum Dungeon Generator](https://github.com/alvarogope/Quantum-Dungeon-Generator) | Procedural dungeon generator using QAOA - encodes game design constraints as QUBO problems solved via IBM Qiskit | Python, Qiskit, NumPy |
 
 ---
 
-## 💻 Software Engineering Projects
+## Software Engineering Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| 🤖 [SecureAI Coding Challenge Generator](https://github.com/alvarogope/AI-Coding-Challenge-Platform) | Full-stack app with AI-generated challenges, user auth, and daily quotas | FastAPI, React, OpenAI, Clerk |
-| 💰 [Finance Tracker](https://github.com/alvarogope/Finance-Tracker) | CLI tool for logging, filtering, and visualising personal finances | Python, Matplotlib |
+| [SecureAI Coding Challenge Generator](https://github.com/alvarogope/AI-Coding-Challenge-Platform) | Full-stack app with AI-generated challenges, user auth, and daily quotas | FastAPI, React, OpenAI, Clerk |
+| [Finance Tracker](https://github.com/alvarogope/Finance-Tracker) | CLI tool for logging, filtering, and visualising personal finances | Python, Matplotlib |
+| [Personal Video Game Portfolio]([https://github.com/alvarogope/Finance-Tracker](https://github.com/alvarogope/portfolio)) | Webpage where I showcase all of my video game work | TypeScript, JavaScript, Next,js, React |
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://alvarogomezgamedesign.wordpress.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.alvarogomezgames.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvaro-gomez-perez/)
