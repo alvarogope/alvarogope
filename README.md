@@ -93,7 +93,7 @@ I build games from the ground up (custom engines, physics, AI systems), ship ful
 |---|---|---|
 | [SecureAI Coding Challenge Generator](https://github.com/alvarogope/AI-Coding-Challenge-Platform) | Full-stack app with AI-generated challenges, user auth, and daily quotas | FastAPI, React, OpenAI, Clerk |
 | [Finance Tracker](https://github.com/alvarogope/Finance-Tracker) | CLI tool for logging, filtering, and visualising personal finances | Python, Matplotlib |
-| [Personal Video Game Portfolio]([https://github.com/alvarogope/Finance-Tracker](https://github.com/alvarogope/portfolio)) | Webpage where I showcase all of my video game work | TypeScript, JavaScript, Next,js, React |
+| [Personal Video Game Portfolio](https://github.com/alvarogope/portfolio) | Webpage where I showcase all of my video game work | TypeScript, JavaScript, Next,js, React |
 
 ---
 
