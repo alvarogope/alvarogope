@@ -155,7 +155,7 @@ flowchart LR
 
 <div align="center">
 
-*Open to game development, software engineering and quantum computing roles in London and remote.*
+*Open to game development, software engineering and quantum computing roles.*
 
 </div>
 
