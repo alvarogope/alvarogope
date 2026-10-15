@@ -51,7 +51,7 @@ Game developer and engineer with an **MA in Game Development (Distinction)** fro
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/alvarogope/Moon-Knight-UE5-RPG"><img src="assets/cards/moon-knight.png" width="100%" alt="Moon Knight"/></a>
+<a href="https://github.com/alvarogope/Moon-Knight-UE5-RPG"><img src="assets/cards/mk-poster.png" width="100%" alt="Moon Knight"/></a>
 <h3>Moon Knight</h3>
 Solo dark fantasy action RPG and MA dissertation project. 4-hit combo system, Behaviour Tree AI, boss encounters and five quantum-inspired abilities. Shown at Develop:Brighton 2025.
 <br/><br/>
@@ -71,7 +71,7 @@ Procedural dungeons generated with QAOA. Game design constraints are encoded as 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://quantum-portfolio-optimizer-o3hq.vercel.app"><img src="assets/cards/portfolio-optimizer.png" width="100%" alt="Quantum Portfolio Optimizer"/></a>
+<a href="https://quantum-portfolio-optimizer-o3hq.vercel.app"></a>
 <h3>Quantum Portfolio Optimizer</h3>
 Hybrid quantum-classical stock allocation: QAOA selects the assets, scipy optimises the weights. Real-time market data via yfinance.
 <br/><br/>
@@ -81,7 +81,7 @@ Hybrid quantum-classical stock allocation: QAOA selects the assets, scipy optimi
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 </td>
 <td width="50%" valign="top">
-<a href="https://quantum-risk-z9ez.vercel.app"><img src="assets/cards/quantumrisk.png" width="100%" alt="QuantumRisk"/></a>
+<a href="https://quantum-risk-z9ez.vercel.app"></a>
 <h3>QuantumRisk <sub><i>(In Development)</i></sub></h3>
 Quantum Amplitude Estimation compared against classical Monte Carlo for options pricing and Value at Risk.
 <br/><br/>
