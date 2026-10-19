@@ -13,7 +13,7 @@
 
 ## About Me
 
-Game developer and engineer with an **MA in Game Development (Distinction)** from Kingston University, where my dissertation explored how quantum computing could reshape RPG mechanics. I work acro[...]
+Game developer and engineer with an **MA in Game Development (Distinction)** from Kingston University, where my dissertation explored how quantum computing could reshape RPG mechanics. I work across three different kind of software:
 
 - 🎮 **Game development** - Unreal Engine 5 systems in C++ and Blueprints: combat, enemy AI, data-driven equipment, diegetic UI
 - 💻 **Software engineering** - full-stack web apps with FastAPI, React and Next.js, including authentication, databases and deployment
