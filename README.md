@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16161D,100:9B5CF6&height=220&section=header&text=Alvaro%20Gomez&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Game%20Developer%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20Quantum%20Computing&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16161D,100:9B5CF6&height=220&section=header&text=Alvaro%20Gomez&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAl[...]">
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=9B5CF6&center=true&vCenter=true&width=620&lines=Building+games+in+Unreal+Engine+5+and+Unity;Shipping+full-stack+apps+with+FastAPI+%2B+React;Applying+quantum+algorithms+to+real+problems)](https://www.alvarogomezgames.com/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=9B5CF6&center=true&vCenter=true&width=620&lines=Building+games+in+Unreal+Engine+5+and+Unity;Shipping+full[...]
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alvarogomezgames.com-9B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://www.alvarogomezgames.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-gomez-perez/)
@@ -13,7 +13,7 @@
 
 ## About Me
 
-Game developer and engineer with an **MA in Game Development (Distinction)** from Kingston University, where my dissertation explored how quantum computing could reshape RPG mechanics. I work across three tracks:
+Game developer and engineer with an **MA in Game Development (Distinction)** from Kingston University, where my dissertation explored how quantum computing could reshape RPG mechanics. I work acro[...]
 
 - 🎮 **Game development** - Unreal Engine 5 systems in C++ and Blueprints: combat, enemy AI, data-driven equipment, diegetic UI
 - 💻 **Software engineering** - full-stack web apps with FastAPI, React and Next.js, including authentication, databases and deployment
@@ -72,7 +72,7 @@ Procedural dungeons generated with QAOA. Game design constraints are encoded as 
 <tr>
 <td width="50%" valign="top">
 <a href="https://quantum-portfolio-optimizer-o3hq.vercel.app"></a>
-<h3>Quantum Portfolio Optimizer</h3>
+<h3><a href="https://github.com/alvarogope/Quantum-Portfolio-Optimizer">Quantum Portfolio Optimizer</a></h3>
 Hybrid quantum-classical stock allocation: QAOA selects the assets, scipy optimises the weights. Real-time market data via yfinance.
 <br/><br/>
 <a href="https://quantum-portfolio-optimizer-o3hq.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=flat-square&logo=vercel&logoColor=white"/></a>
@@ -82,7 +82,7 @@ Hybrid quantum-classical stock allocation: QAOA selects the assets, scipy optimi
 </td>
 <td width="50%" valign="top">
 <a href="https://quantum-risk-z9ez.vercel.app"></a>
-<h3>QuantumRisk <sub><i>(In Development)</i></sub></h3>
+<h3><a href="https://github.com/alvarogope/QuantumRisk">QuantumRisk</a> <sub><i>(In Development)</i></sub></h3>
 Quantum Amplitude Estimation compared against classical Monte Carlo for options pricing and Value at Risk.
 <br/><br/>
 <a href="https://quantum-risk-z9ez.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=flat-square&logo=vercel&logoColor=white"/></a>
@@ -99,7 +99,7 @@ Quantum Amplitude Estimation compared against classical Monte Carlo for options 
 
 | Project | Description | Tech |
 |---|---|---|
-| [Quantum Toolkit](https://www.alvarogomezgames.com/) *(Private · In Development)* | C++17 library of quantum game mechanics wrapping Quantum++ and Eigen. Density-matrix registers, gates, measurement and per-qubit noise, with mechanics statistically verified over 1,000-trial tests | C++17, Quantum++, Eigen |
+| [Quantum Toolkit](https://www.alvarogomezgames.com/) *(Private · In Development)* | C++17 library of quantum game mechanics wrapping Quantum++ and Eigen. Density-matrix registers, gates, measuremen[...]
 | [Medieval Jousting](https://github.com/alvarogope/Medieval-Jousting) *(In Development)* | Side-on jousting game built in C++ with Enhanced Input | UE5, C++ |
 
 ---
@@ -108,8 +108,8 @@ Quantum Amplitude Estimation compared against classical Monte Carlo for options 
 
 | Project | Description | Tech |
 |---|---|---|
-| [Game Dev Portfolio](https://github.com/alvarogope/portfolio) | Interactive portfolio site with an RPG-style About screen, Moon Knight bestiary and project system diagrams. [**Live**](https://www.alvarogomezgames.com/) | Next.js, React, TypeScript |
-| [SecureAI Coding Challenge Platform](https://github.com/alvarogope/SecureAI-Coding-Challenge-Platform) | AI-generated coding challenges with Clerk authentication, per-user history and daily quotas | FastAPI, React, OpenAI, SQLite |
+| [Game Dev Portfolio](https://github.com/alvarogope/portfolio) | Interactive portfolio site with an RPG-style About screen, Moon Knight bestiary and project system diagrams. [**Live**](https://www.al[...]
+| [SecureAI Coding Challenge Platform](https://github.com/alvarogope/SecureAI-Coding-Challenge-Platform) | AI-generated coding challenges with Clerk authentication, per-user history and daily quo[...]
 | [Finance Tracker](https://github.com/alvarogope/Finance-Tracker) | CLI tool for logging, filtering and visualising personal finances | Python, pandas, Matplotlib |
 
 ---
