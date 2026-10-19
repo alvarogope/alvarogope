@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=9B5CF6&center=true&vCenter=true&width=620&lines=Building+games+in+Unreal+Engine+5+and+Unity;Shipping+f[...]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=9B5CF6&center=true&vCenter=true&width=620&lines=Building+games+in+Unreal+Engine+5+and+C%2B%2B;Shipping+full-stack+apps+with+FastAPI+%2B+React;Applying+quantum+algorithms+to+real+problems;Based+in+London+%C2%B7+Open+to+opportunities)](https://www.alvarogomezgames.com/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alvarogomezgames.com-9B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://www.alvarogomezgames.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-gomez-perez/)
