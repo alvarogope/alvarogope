@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=9B5CF6&center=true&vCenter=true&width=620&lines=Building+games+in+Unreal+Engine+5+and+Unity;Shipping+full[...]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=9B5CF6&center=true&vCenter=true&width=620&lines=Building+games+in+Unreal+Engine+5+and+Unity;Shipping+f[...]
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alvarogomezgames.com-9B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://www.alvarogomezgames.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-gomez-perez/)
@@ -51,8 +51,8 @@ Game developer and engineer with an **MA in Game Development (Distinction)** fro
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/alvarogope/Moon-Knight-UE5-RPG"><img src="assets/cards/mk-poster.png" width="100%" alt="Moon Knight"/></a>
-<h3>Moon Knight</h3>
+<a href="https://github.com/alvarogope/Moon-Knight-UE5-RPG" target="_blank" rel="noopener"><img src="assets/cards/mk-poster.png" width="100%" alt="Moon Knight"/></a>
+<h3><a href="https://github.com/alvarogope/Moon-Knight-UE5-RPG" target="_blank" rel="noopener">Moon Knight</a></h3>
 Solo dark fantasy action RPG and MA dissertation project. 4-hit combo system, Behaviour Tree AI, boss encounters and five quantum-inspired abilities. Shown at Develop:Brighton 2025.
 <br/><br/>
 <img src="https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
@@ -60,8 +60,8 @@ Solo dark fantasy action RPG and MA dissertation project. 4-hit combo system, Be
 <img src="https://img.shields.io/badge/Blueprints-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/alvarogope/Quantum-Dungeon-Generator"><img src="assets/cards/quantum-dungeon.png" width="100%" alt="Quantum Dungeon Generator"/></a>
-<h3>Quantum Dungeon Generator</h3>
+<a href="https://github.com/alvarogope/Quantum-Dungeon-Generator" target="_blank" rel="noopener"><img src="assets/cards/quantum-dungeon.png" width="100%" alt="Quantum Dungeon Generator"/></a>
+<h3><a href="https://github.com/alvarogope/Quantum-Dungeon-Generator" target="_blank" rel="noopener">Quantum Dungeon Generator</a></h3>
 Procedural dungeons generated with QAOA. Game design constraints are encoded as a QUBO problem and solved on a quantum circuit via IBM Qiskit.
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -71,22 +71,20 @@ Procedural dungeons generated with QAOA. Game design constraints are encoded as 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://quantum-portfolio-optimizer-o3hq.vercel.app"></a>
-<h3><a href="https://github.com/alvarogope/Quantum-Portfolio-Optimizer">Quantum Portfolio Optimizer</a></h3>
+<h3><a href="https://github.com/alvarogope/Quantum-Portfolio-Optimizer" target="_blank" rel="noopener">Quantum Portfolio Optimizer</a></h3>
 Hybrid quantum-classical stock allocation: QAOA selects the assets, scipy optimises the weights. Real-time market data via yfinance.
 <br/><br/>
-<a href="https://quantum-portfolio-optimizer-o3hq.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/alvarogope/Quantum-Portfolio-Optimizer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://quantum-portfolio-optimizer-o3hq.vercel.app" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/alvarogope/Quantum-Portfolio-Optimizer" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 </td>
 <td width="50%" valign="top">
-<a href="https://quantum-risk-z9ez.vercel.app"></a>
-<h3><a href="https://github.com/alvarogope/QuantumRisk">QuantumRisk</a> <sub><i>(In Development)</i></sub></h3>
+<h3><a href="https://github.com/alvarogope/QuantumRisk" target="_blank" rel="noopener">QuantumRisk</a> <sub><i>(In Development)</i></sub></h3>
 Quantum Amplitude Estimation compared against classical Monte Carlo for options pricing and Value at Risk.
 <br/><br/>
-<a href="https://quantum-risk-z9ez.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/alvarogope/QuantumRisk"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://quantum-risk-z9ez.vercel.app" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/alvarogope/QuantumRisk" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 </td>
@@ -99,8 +97,8 @@ Quantum Amplitude Estimation compared against classical Monte Carlo for options 
 
 | Project | Description | Tech |
 |---|---|---|
-| [Quantum Toolkit](https://www.alvarogomezgames.com/) *(Private · In Development)* | C++17 library of quantum game mechanics wrapping Quantum++ and Eigen. Density-matrix registers, gates, measuremen[...]
-| [Medieval Jousting](https://github.com/alvarogope/Medieval-Jousting) *(In Development)* | Side-on jousting game built in C++ with Enhanced Input | UE5, C++ |
+| [Quantum Toolkit](https://www.alvarogomezgames.com/) *(Private · In Development)* | C++17 library of quantum game mechanics wrapping Quantum++ and Eigen. Density-matrix registers, gates, measu[...]
+| Medieval Jousting *(In Development)* | Side-on jousting game built in C++ with Enhanced Input | UE5, C++ |
 
 ---
 
@@ -108,7 +106,7 @@ Quantum Amplitude Estimation compared against classical Monte Carlo for options 
 
 | Project | Description | Tech |
 |---|---|---|
-| [Game Dev Portfolio](https://github.com/alvarogope/portfolio) | Interactive portfolio site with an RPG-style About screen, Moon Knight bestiary and project system diagrams. [**Live**](https://www.al[...]
+| [Game Dev Portfolio](https://github.com/alvarogope/portfolio) | Interactive portfolio site with an RPG-style About screen, Moon Knight bestiary and project system diagrams. [**Live**](https://w[...]
 | [SecureAI Coding Challenge Platform](https://github.com/alvarogope/SecureAI-Coding-Challenge-Platform) | AI-generated coding challenges with Clerk authentication, per-user history and daily quo[...]
 | [Finance Tracker](https://github.com/alvarogope/Finance-Tracker) | CLI tool for logging, filtering and visualising personal finances | Python, pandas, Matplotlib |
 
