@@ -80,7 +80,7 @@ Hybrid quantum-classical stock allocation: QAOA selects the assets, scipy optimi
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/alvarogope/QuantumRisk" target="_blank" rel="noopener">QuantumRisk</a> <sub><i>(In Development)</i></sub></h3>
+<h3><a href="https://github.com/alvarogope/QuantumRisk" target="_blank" rel="noopener">QuantumRisk</a> </h3>
 Quantum Amplitude Estimation compared against classical Monte Carlo for options pricing and Value at Risk.
 <br/><br/>
 <a href="https://quantum-risk-z9ez.vercel.app" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=flat-square&logo=vercel&logoColor=white"/></a>
